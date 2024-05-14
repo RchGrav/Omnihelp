@@ -82,6 +82,6 @@ By leveraging the power of GPT-4o and incorporating these techniques, you can cr
 
 ## Try It Yourself
 
-To explore the full source code of this script and experiment with it yourself, visit the GitHub repository at [https://github.com/RchGrav/Omnihelp](https://github.com/RchGrav/Omnihelp). Feel free to fork the repository, make modifications, and adapt it to your own use cases.
+To explore the full source code of this script and experiment with it yourself, visit the GitHub repository at [https://github.com/RchGrav/gpt4o_assistant](https://github.com/RchGrav/gpt4o_assistant). Feel free to fork the repository, make modifications, and adapt it to your own use cases.
 
 With GPT-4o and the right approach, the possibilities for creating AI-powered tools are endless. Happy coding!
