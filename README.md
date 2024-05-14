@@ -23,7 +23,7 @@ This script leverages the power of GPT-4o to provide an interactive AI assistant
 3. Download the script and save it in your home directory with a name like `gpt4o_assistant.sh`:
 
    ```bash
-   wget -O ~/gpt4o_assistant.sh "https://raw.githubusercontent.com/yourusername/repo/main/gpt4o_assistant.sh"
+   wget -O ~/gpt4o_assistant.sh "https://raw.githubusercontent.com/RchGrav/gpt4o_assistant/main/gpt4o_assistant.sh"
    ```
 
 4. Make the script executable:
